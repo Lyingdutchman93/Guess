@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1551544582 source:c:\users\abbri\onedrive\desktop\nieuwe map\guess\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<Windows.h>
+	<MMSystem.h>
+
